@@ -7,9 +7,9 @@
 
 ## 演示
 
-<video id="video" controls="" preload="none" poster=""> <source id="mov" src="./demo.MOV" type="video/mov"> </video>
+<video id="video" controls="" preload="none" poster=""> <source id="mov" src="https://github.com/WorkerAmo/wenquanshuju-pdf-downloader/blob/master/demo.MOV" type="video/mov"> </video>
 
-
+见项目内视频
 
 ### 说明
 
